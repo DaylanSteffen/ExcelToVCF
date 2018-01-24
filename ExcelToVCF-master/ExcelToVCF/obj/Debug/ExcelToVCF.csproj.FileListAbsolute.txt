@@ -1,0 +1,17 @@
+C:\Users\Daylan\source\repos\ExcelToVCF-master\ExcelToVCF\obj\Debug\ExcelToVCF.Form1.resources
+C:\Users\Daylan\source\repos\ExcelToVCF-master\ExcelToVCF\obj\Debug\ExcelToVCF.Properties.Resources.resources
+C:\Users\Daylan\source\repos\ExcelToVCF-master\ExcelToVCF\obj\Debug\ExcelToVCF.csproj.GenerateResource.Cache
+C:\Users\Daylan\source\repos\ExcelToVCF-master\ExcelToVCF\obj\Debug\ExcelToVCF.csproj.CoreCompileInputs.cache
+C:\Users\Daylan\source\repos\ExcelToVCF-master\ExcelToVCF\bin\Debug\ExcelToVCF.exe.config
+C:\Users\Daylan\source\repos\ExcelToVCF-master\ExcelToVCF\bin\Debug\ExcelToVCF.exe
+C:\Users\Daylan\source\repos\ExcelToVCF-master\ExcelToVCF\bin\Debug\ExcelToVCF.pdb
+C:\Users\Daylan\source\repos\ExcelToVCF-master\ExcelToVCF\obj\Debug\ExcelToVCF.exe
+C:\Users\Daylan\source\repos\ExcelToVCF-master\ExcelToVCF\obj\Debug\ExcelToVCF.pdb
+C:\Users\Daylan\source\repos\ExcelToVCF-master\ExcelToVCF\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Daylan\source\repos\ExcelToVCF-master\ExcelToVCF\bin\Debug\NPOI.dll
+C:\Users\Daylan\source\repos\ExcelToVCF-master\ExcelToVCF\bin\Debug\NPOI.OOXML.dll
+C:\Users\Daylan\source\repos\ExcelToVCF-master\ExcelToVCF\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Daylan\source\repos\ExcelToVCF-master\ExcelToVCF\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Daylan\source\repos\ExcelToVCF-master\ExcelToVCF\bin\Debug\NPOI.xml
+C:\Users\Daylan\source\repos\ExcelToVCF-master\ExcelToVCF\bin\Debug\ExcelDataReader.dll
+C:\Users\Daylan\source\repos\ExcelToVCF-master\ExcelToVCF\bin\Debug\ExcelDataReader.xml
